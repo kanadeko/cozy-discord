@@ -13,6 +13,6 @@
     "build": "node-sass src/cozy-discord.scss dist/cozy-discord.css --output-style compressed --linefeed lf"
   },
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   }
 }
